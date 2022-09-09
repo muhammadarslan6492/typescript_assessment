@@ -23,7 +23,6 @@ interface ContactDoc extends mongoose.Document {
 const contactSchema = new mongoose.Schema({
   firstName: {
     type: String,
-    unique: true,
     required: true,
   },
   lastName: {
