@@ -49,7 +49,7 @@ After installing node, this project will need npm too, so just run the following
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE    $ cd PROJECT_TITLE
+    $ git clone https://github.com/muhammadarslan6492/typescript_assessment.git    $ cd PROJECT_TITLE
     $ yarn install
 
 ## Running the project
